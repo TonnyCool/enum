@@ -1,0 +1,5 @@
+package com.hc.history;
+
+public enum Signal {
+	RED, YELLOW, GREEN;
+}
